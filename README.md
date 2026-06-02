@@ -1,9 +1,11 @@
 # Egg Boiling Timer App
-## <img width="957" height="887" alt="Screenshot 2026-06-02 011235" src="https://github.com/user-attachments/assets/69417ae6-940d-4c24-8641-e3059cad8d2b" />
+
 
 A clean, responsive, dark-themed desktop application built with **Python** and **PyQt5** designed to help you boil the perfect egg every single time. 
 
 The application tracks your cooking duration in real-time and dynamically updates its interface with handy visual indicators to match your egg's readiness—from "Still Raw" all the way to hard-boiled!
+
+## <img width="957" height="887" alt="Screenshot 2026-06-02 011235" src="https://github.com/user-attachments/assets/69417ae6-940d-4c24-8641-e3059cad8d2b" />
 
 ##  Features
 * **Real-time Countdown:** Accurate down-to-the-second boiling timer tracking.
